@@ -1,21 +1,20 @@
-p, ul
-{
-    color:darkred
+p,ul {
+    color: darkred;
 }
 
-h1
-{
-font-weight: bold ; /* ceci indique que le texte inclut dans toutes les balises "h1" seront en gras */
+h1 {
+    font-weight: bold;
+    /* ceci indique que le texte inclut dans toutes les balises "h1" seront en gras */
 }
-.formation
-{
-    color:cornflowerblue
+
+.formation {
+    color: cornflowerblue;
 }
-h2
-{
-color:grey
+
+h2 {
+    color: grey;
 }
-span
-{
-color: cornflowerblue;
+
+span {
+    color: cornflowerblue;
 }
