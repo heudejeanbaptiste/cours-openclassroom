@@ -8,3 +8,7 @@ h1
 color: blue;
 font-weight: bold ; /* ceci indique que le texte inclut dans toutes les balises "h1" seront en gras */
 }
+span
+{
+font-style: italic;
+}
