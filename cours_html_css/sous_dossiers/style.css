@@ -12,3 +12,11 @@ span
 {
 font-style: italic;
 }
+h1, h2
+{
+    text-decoration: overline;
+}
+.flottant
+{
+    
+}
