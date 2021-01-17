@@ -1,4 +1,4 @@
-nav, footer, div
+nav, footer,div
 {
     background-color: rgba(255, 94, 0, 0.904); 
 }
@@ -22,7 +22,7 @@ h2
 {
     text-decoration: underline; 
 }
-p, ul
+p, ul 
 {
     background-color: white;  
 }
